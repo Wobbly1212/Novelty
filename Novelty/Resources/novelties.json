@@ -1,0 +1,26 @@
+[
+  {
+    "id": "S001",
+    "title": "Color Hunt Walk",
+    "description": "d.",
+    "category": "sensory"
+  },
+  {
+    "id": "M001",
+    "title": "Move in slow motion",
+    "description": "For 5 minutes, do everything in exaggerated slow motion.",
+    "category": "motor"
+  },
+  {
+    "id": "D001",
+    "title": "Digital detox",
+    "description": "Turn off your phone screen for 10 minutes. Just sit or walk around.",
+    "category": "digital"
+  },
+  {
+    "id": "C001",
+    "title": "Speak your thoughts",
+    "description": "Narrate your thoughts aloud for a few minutes while doing a task.",
+    "category": "cognitive"
+  }
+]
